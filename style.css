@@ -9,8 +9,8 @@ body {
 
 /*configurar imagem perfil*/
 .foto{
-    height:40%; 
-    width:35%; 
+    height:150px; 
+    width:150px; 
     border-radius: 50px 50px 50px 50px;
     margin: 0 auto;
     display: block;
