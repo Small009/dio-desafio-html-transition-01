@@ -7,6 +7,16 @@ body {
     font-family: 'American Typewriter', serif;
 }
 
+/*configurar imagem perfil*/
+.foto{
+    height:45%; 
+    width:45%; 
+    border-radius: 50px 50px 50px 50px;
+    margin: 0 auto;
+    display: block;
+    border: 5px solid white;
+    
+}
 /* HEADER */
 
 .header-wrapper {
